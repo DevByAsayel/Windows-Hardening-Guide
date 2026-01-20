@@ -28,7 +28,7 @@ The purpose of this project is to help users understand how to:
 * Haneen Saleem
 * Dina Bajaifer
 
-## 📄 Project Files
+## Project Files
 
 * **Service_Hardening.pdf** — The main project document containing detailed explanations, step-by-step instructions, and screenshots.
 
